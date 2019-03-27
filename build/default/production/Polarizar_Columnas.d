@@ -1,0 +1,1 @@
+ build/default/production/Polarizar_Columnas.d  build/default/production/Polarizar_Columnas.p1:  Polarizar_Columnas.c Varios/Config_micro.h Varios/Config_micro.h Teclado.h

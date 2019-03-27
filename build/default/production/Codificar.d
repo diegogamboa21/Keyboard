@@ -1,0 +1,1 @@
+ build/default/production/Codificar.d  build/default/production/Codificar.p1:  Codificar.c Varios/Config_micro.h Varios/Config_micro.h Teclado.h

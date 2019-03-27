@@ -1,0 +1,1 @@
+ build/default/production/Leer_Filas.d  build/default/production/Leer_Filas.p1:  Leer_Filas.c Varios/Config_micro.h Varios/Config_micro.h Teclado.h
